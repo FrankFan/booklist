@@ -19,6 +19,8 @@
 <br/>
 
 #### 《你必须知道的.net》 <br />
+![](http://img5.douban.com/lpic/s9111288.jpg)
+<br />
 
 #### 《程序员你伤不起》 <br />
 
