@@ -22,6 +22,10 @@
 ![](http://img5.douban.com/lpic/s9111288.jpg)
 <br />
 
+#### 《ppk谈JavaScript》
+![](http://img5.douban.com/lpic/s2984236.jpg)
+<br />
+
 #### 《程序员你伤不起》 <br />
 
 #### 《沸腾15年》 <br />
