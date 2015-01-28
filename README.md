@@ -45,3 +45,7 @@
 ####  《三国演义》 <br />
 
 ####  《锋利的jQuery》 <br />
+
+####  《Javascript权威指南》
+
+####  《Javascript随想录》
