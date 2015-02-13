@@ -26,6 +26,8 @@
 ![](http://img5.douban.com/lpic/s2984236.jpg)
 <br />
 
+《Nodejs开发指南》
+
 #### 《程序员你伤不起》 <br />
 
 #### 《沸腾15年》 <br />
