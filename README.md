@@ -26,6 +26,8 @@
 ![](http://img5.douban.com/lpic/s2984236.jpg)
 <br />
 
+#### 《Backbone js》
+
 《Nodejs开发指南》
 
 #### 《程序员你伤不起》 <br />
