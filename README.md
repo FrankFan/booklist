@@ -22,17 +22,17 @@
 ![](http://img5.douban.com/lpic/s9111288.jpg)
 <br />
 
-.net之美
+#### 《.net之美》
 
 #### 《ppk谈JavaScript》
 ![](http://img5.douban.com/lpic/s2984236.jpg)
 <br />
 
-html5
+####《html5秘籍》
 
 #### 《Backbone js》
 
-《Nodejs开发指南》
+####《Nodejs开发指南》
 
 #### 《程序员你伤不起》 <br />
 
@@ -57,3 +57,5 @@ html5
 ####  《Javascript权威指南》
 
 ####  《Javascript随想录》
+
+#### 《精通CSS高级Web标准解决方案(第2版)》
