@@ -23,28 +23,39 @@
 <br />
 
 #### 《.net之美》
+![](http://img3.douban.com/lpic/s27223810.jpg)
 
 #### 《ppk谈JavaScript》
 ![](http://img5.douban.com/lpic/s2984236.jpg)
 <br />
 
 ####《html5秘籍》
+![](http://img3.douban.com/lpic/s11190661.jpg)
+
+####《论道html5》
+![](http://img5.douban.com/lpic/s9042118.jpg)
 
 #### 《Backbone js》
 
 ####《Nodejs开发指南》
+![](http://img5.douban.com/lpic/s10307479.jpg)
 
 #### 《程序员你伤不起》 <br />
+![](http://img5.douban.com/lpic/s26824277.jpg)
 
 #### 《沸腾15年》 <br />
+![](http://img5.douban.com/lpic/s4502957.jpg)
 
 #### 《浪潮之巅》 <br />
+![](http://img3.douban.com/lpic/s6584764.jpg)
 
 #### 《随遇而安——孟非自传》 <br />
 
 #### 《大话数据结构》 <br />
+![](http://img3.douban.com/lpic/s6382631.jpg)
 
 #### 《大话设计模式》 <br />
+![](http://img5.douban.com/lpic/s6908318.jpg)
 
 ####  《Mac Talk人生元编程》<br />
 
