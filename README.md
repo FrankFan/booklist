@@ -58,15 +58,20 @@
 ![](http://img5.douban.com/lpic/s6908318.jpg)
 
 ####  《Mac Talk人生元编程》<br />
+![](http://img3.douban.com/lpic/s27219901.jpg)
 
 ####  《Git权威指南》<br />
+![](http://img3.douban.com/lpic/s6523000.jpg)
 
 ####  《三国演义》 <br />
 
 ####  《锋利的jQuery》 <br />
+![](http://img5.douban.com/lpic/s28026858.jpg)
 
 ####  《Javascript权威指南》
+![](http://img3.douban.com/lpic/s5860151.jpg)
 
 ####  《Javascript随想录》
 
 #### 《精通CSS高级Web标准解决方案(第2版)》
+![](http://img5.douban.com/lpic/s11187739.jpg)
