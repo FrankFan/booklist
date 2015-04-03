@@ -25,6 +25,9 @@
 ### 《.net之美》
 ![](http://img3.douban.com/lpic/s27223810.jpg)
 
+### 《淘宝技术这十年》
+![](http://img3.douban.com/lpic/s26713863.jpg)
+
 ### 《ppk谈JavaScript》
 ![](http://img5.douban.com/lpic/s2984236.jpg)
 <br />
