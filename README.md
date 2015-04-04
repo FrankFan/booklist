@@ -79,3 +79,6 @@
 
 ### 《Javascript启示录》
 ![](http://img5.douban.com/lpic/s27228856.jpg)
+
+### 《Javascript高级程序设计（第三版）》
+![](http://img3.douban.com/lpic/s8958650.jpg)
