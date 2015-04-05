@@ -38,7 +38,7 @@
 ### 《论道html5》
 ![](http://img5.douban.com/lpic/s9042118.jpg)
 
-#### 《Backbone js》
+### 《Backbone》
 
 ### 《Nodejs开发指南》
 ![](http://img5.douban.com/lpic/s10307479.jpg)
