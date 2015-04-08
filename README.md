@@ -67,6 +67,7 @@
 ![](http://img3.douban.com/lpic/s6523000.jpg)
 
 ###  《三国演义》 <br />
+![](http://img3.douban.com/lpic/s1564175.jpg)
 
 ###  《锋利的jQuery》 <br />
 ![](http://img5.douban.com/lpic/s28026858.jpg)
