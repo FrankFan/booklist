@@ -4,7 +4,6 @@
 
 ### 《Oracle 11g中文版数据库管理、应用与开发标准教程》<br/>
 ![](http://img5.douban.com/lpic/s22777949.jpg)
-<br/>
 
 ### 《ASP.NET 3.5 AJAX高级编程》<br/>
 ![](http://img3.douban.com/lpic/s6106662.jpg)
