@@ -16,7 +16,7 @@
 
 ### 《互联网的未来》<br/>
 ![](http://img5.douban.com/lpic/s6276899.jpg)
-<br/>
+
 
 ### 《你必须知道的.net》 <br />
 ![](http://img5.douban.com/lpic/s9111288.jpg)
