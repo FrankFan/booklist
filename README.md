@@ -7,7 +7,7 @@
 
 ### 《ASP.NET 3.5 AJAX高级编程》<br/>
 ![](http://img3.douban.com/lpic/s6106662.jpg)
-<br/>
+
 
 ### 《C#基础教程》<br/>
 ![](http://img3.douban.com/lpic/s4196243.jpg)
