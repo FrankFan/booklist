@@ -2,22 +2,20 @@
 
 读过的书
 
-### 《Oracle 11g中文版数据库管理、应用与开发标准教程》<br/>
+### 《Oracle 11g中文版数据库管理、应用与开发标准教程》
 ![](http://img5.douban.com/lpic/s22777949.jpg)
 
-### 《ASP.NET 3.5 AJAX高级编程》<br/>
+### 《ASP.NET 3.5 AJAX高级编程》
 ![](http://img3.douban.com/lpic/s6106662.jpg)
 
-
-### 《C#基础教程》<br/>
+### 《C#基础教程》
 ![](http://img3.douban.com/lpic/s4196243.jpg)
-<br/>
 
-### 《互联网的未来》<br/>
+### 《互联网的未来》
 ![](http://img5.douban.com/lpic/s6276899.jpg)
 
 
-### 《你必须知道的.net》 <br />
+### 《你必须知道的.net》
 ![](http://img5.douban.com/lpic/s9111288.jpg)
 <br />
 
@@ -82,3 +80,6 @@
 
 ### 《Javascript高级程序设计（第三版）》
 ![](http://img3.douban.com/lpic/s8958650.jpg)
+
+### 《HTML5高级程序设计》
+![](http://img3.douban.com/lpic/s4569610.jpg)
