@@ -39,7 +39,7 @@
 ### 《Nodejs开发指南》
 ![](http://img5.douban.com/lpic/s10307479.jpg)
 
-### 《程序员你伤不起》 <br />
+### 《程序员你伤不起》 
 ![](http://img5.douban.com/lpic/s26824277.jpg)
 
 ### 《沸腾15年》 <br />
