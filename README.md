@@ -42,7 +42,7 @@
 ### 《程序员你伤不起》 
 ![](http://img5.douban.com/lpic/s26824277.jpg)
 
-### 《沸腾15年》 <br />
+### 《沸腾15年》 
 ![](http://img5.douban.com/lpic/s4502957.jpg)
 
 ### 《浪潮之巅》 <br />
