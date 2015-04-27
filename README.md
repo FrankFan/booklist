@@ -48,7 +48,7 @@
 ### 《浪潮之巅》 <br />
 ![](http://img3.douban.com/lpic/s6584764.jpg)
 
-### 《随遇而安——孟非自传》 <br />
+### 《随遇而安——孟非自传》 
 
 ### 《大话数据结构》 <br />
 ![](http://img3.douban.com/lpic/s6382631.jpg)
