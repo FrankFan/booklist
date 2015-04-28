@@ -27,7 +27,6 @@
 
 ### 《ppk谈JavaScript》
 ![](http://img5.douban.com/lpic/s2984236.jpg)
-<br />
 
 ### 《html5秘籍》
 ![](http://img3.douban.com/lpic/s11190661.jpg)
