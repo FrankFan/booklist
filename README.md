@@ -17,7 +17,6 @@
 
 ### 《你必须知道的.net》
 ![](http://img5.douban.com/lpic/s9111288.jpg)
-<br />
 
 ### 《.net之美》
 ![](http://img3.douban.com/lpic/s27223810.jpg)
