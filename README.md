@@ -58,7 +58,7 @@
 ###  《Mac Talk人生元编程》<br />
 ![](http://img3.douban.com/lpic/s27219901.jpg)
 
-###  《Git权威指南》<br />
+###  《Git权威指南》
 ![](http://img3.douban.com/lpic/s6523000.jpg)
 
 ###  《三国演义》 <br />
