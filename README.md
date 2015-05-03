@@ -44,7 +44,7 @@
 ### 《沸腾15年》 
 ![](http://img5.douban.com/lpic/s4502957.jpg)
 
-### 《浪潮之巅》 <br />
+### 《浪潮之巅》
 ![](http://img3.douban.com/lpic/s6584764.jpg)
 
 ### 《随遇而安——孟非自传》 
