@@ -52,10 +52,10 @@
 ### 《大话数据结构》
 ![](http://img3.douban.com/lpic/s6382631.jpg)
 
-### 《大话设计模式》 <br />
+### 《大话设计模式》
 ![](http://img5.douban.com/lpic/s6908318.jpg)
 
-###  《Mac Talk人生元编程》<br />
+###  《Mac Talk人生元编程》
 ![](http://img3.douban.com/lpic/s27219901.jpg)
 
 ###  《Git权威指南》
