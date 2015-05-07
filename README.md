@@ -55,6 +55,8 @@
 ### 《大话设计模式》
 ![](http://img5.douban.com/lpic/s6908318.jpg)
 
+#### 《程序员你伤不起》
+
 ###  《Mac Talk人生元编程》
 ![](http://img3.douban.com/lpic/s27219901.jpg)
 
