@@ -66,7 +66,7 @@
 ###  《三国演义》 
 ![](http://img3.douban.com/lpic/s1564175.jpg)
 
-###  《锋利的jQuery》 <br />
+###  《锋利的jQuery》 
 ![](http://img5.douban.com/lpic/s28026858.jpg)
 
 ###  《Javascript权威指南》
