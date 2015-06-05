@@ -85,5 +85,5 @@
 ### 《HTML5高级程序设计》
 ![](http://img3.douban.com/lpic/s4569610.jpg)
 
-### 《CSS权威指南》
+### 《CSS权威指南(第三版)》
 ![](http://img3.douban.com/lpic/s2921314.jpg)
