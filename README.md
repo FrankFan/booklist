@@ -89,3 +89,6 @@
 
 ### 《响应式Web设计》
 ![](http://img3.doubanio.com/lpic/s27359269.jpg)
+
+### 《JavaScript专家编程》
+![](http://img3.douban.com/lpic/s28267443.jpg) 
